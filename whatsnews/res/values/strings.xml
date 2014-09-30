@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">What\'s news</string>
+    <string name="refresh">Refresh</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="nMenu">
+        <item>Portada</item>
+        <item>Añadir fuentes</item>
+        <item>Lista de Feeds</item>
+        <item>Favoritos</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir menu</string>
+    <string name="drawer_close">Cerrar menu</string>
+    <string name="source">Fuente:</string>
+    <string name="elpais">http://ep00.epimg.net/rss/elpais/portada.xml</string>
+    <string name="marca">http://marca.feedsportal.com/rss/portada.xml</string>
+    <string name="_20minutos">http://20minutos.feedsportal.com/c/32489/f/478284/index.rss</string>
+    <string name="xataka">http://feeds.weblogssl.com/xataka2</string>
+    <string name="title_activity_list_feeds">ListFeeds</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
